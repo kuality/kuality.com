@@ -1,11 +1,13 @@
 title: "Kuality"
 author: "Kuality"
 description: "Made with Jekyll & Contrast (By SeMin) <b style=\"color: #f45;\">&lt;3</b>"
+url: https://kuality.kr
+baseurl: /
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-url: "./"
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
